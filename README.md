@@ -1,1 +1,4 @@
 # PineappleAI
+
+USE WISELY
+DO NOT DELETE THIS
